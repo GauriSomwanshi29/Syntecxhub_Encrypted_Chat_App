@@ -133,19 +133,19 @@ Through this project, I learned:
 
 ## 👩‍💻 Developed By
 
-**Gauri Somwanshi**
-Cyber Security Intern
-Syntecxhub Internship Program
+**Gauri Somwanshi❤️**
+
 
 ---
-
-## 📢 Internship Task
-
-This project was developed as part of the **Week 2 Cyber Security Internship Task** assigned by **Syntecxhub**.
-
----
+
 
 ## ⭐ Conclusion
 
 This project shows a basic but effective implementation of secure chat communication using encryption.
 It is useful for understanding the foundation of secure messaging systems and network security.
+
+---
+
+## ⭐ Support
+
+if you like this project, give it a ⭐ on GitHub.!
